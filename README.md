@@ -37,8 +37,7 @@ Welcome to the Road Safety EDA repository! This project focuses on the thorough 
 ## Have a look:
 
 1. Clone the repository: `git clone https://github.com/your-username/road-safety-eda.git`
-2. Navigate to the project directory: `cd road-safety-eda`
-3. Explore the Jupyter Notebooks in the `notebooks` directory for detailed analysis.
+2. Explore the Jupyter Notebooks in the `Notebook` directory for detailed analysis.
 
 ## References:
 
