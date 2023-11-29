@@ -15,7 +15,6 @@ Welcome to the Road Safety EDA repository! This project focuses on the thorough 
 
 ### 3. Feature Engineering 🧠
 - **Creating New Features:** Deriving meaningful features to enhance analysis.
-- **Categorical Encoding:** Encoding categorical variables for modeling purposes.
 
 ### 4. Data Visualization 📈
 - **Matplotlib and Seaborn:** Leveraging these libraries for insightful visualizations.
