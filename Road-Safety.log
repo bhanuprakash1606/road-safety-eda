@@ -1,0 +1,288 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.23)  29 NOV 2023 18:18
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/bbp29/Projects/Reports/Road-Safety.tex
+(c:/Users/bbp29/Projects/Reports/Road-Safety.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Program Files\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip50
+\thanksmargin=\skip51
+\droptitle=\skip52
+) (C:\Program Files\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip53
+\aftertitleunit=\skip54
+\ttl@plus=\dimen141
+\ttl@minus=\dimen142
+\ttl@toksa=\toks17
+\titlewidth=\dimen143
+\titlewidthlast=\dimen144
+\titlewidthfirst=\dimen145
+) (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
+\Gm@dimlist=\toks19
+ (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+) (C:\Program Files\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+ (C:\Program Files\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen156
+\captionmargin=\dimen157
+\caption@leftmargin=\dimen158
+\caption@rightmargin=\dimen159
+\caption@width=\dimen160
+\caption@indent=\dimen161
+\caption@parindent=\dimen162
+\caption@hangindent=\dimen163
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count196
+\c@continuedfloat=\count197
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count198
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count199
+) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count266
+\l__pdf_internal_box=\box52
+) (Road-Safety.aux)
+\openout1 = `Road-Safety.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(98.16191pt, 417.97118pt, 98.16191pt)
+* v-part:(T,H,B)=(98.16191pt, 598.64616pt, 98.16191pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=417.97118pt
+* \textheight=598.64616pt
+* \oddsidemargin=25.89192pt
+* \evensidemargin=25.89192pt
+* \topmargin=-11.10808pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen164
+\scratchbox=\box53
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen165
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks21
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 18.
+ [1
+
+{C:/Users/bbp29/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (40.91301pt too wide) in paragraph at lines 61--70
+\OT1/cmr/m/n/10 Lat-i-tude, Po-lice[]Force, Ac-ci-dent[]Severity, Num-ber[]of[]Vehicles, Num-ber[]of[]Casualties, Date, Day[]of[]Week,
+ []
+
+
+Overfull \hbox (6.96863pt too wide) in paragraph at lines 61--70
+\OT1/cmr/m/n/10 Time, Lo-cal[]Authority[](District), Lo-cal[]Authority[](Highway), 1st[]Road[]Class, 1st[]Road[]Number,
+ []
+
+
+Overfull \hbox (3.21864pt too wide) in paragraph at lines 61--70
+\OT1/cmr/m/n/10 Road[]Type, Speed[]limit, Junc-tion[]Detail, Junc-tion[]Control, 2nd[]Road[]Class, 2nd[]Road[]Number,
+ []
+
+
+Overfull \hbox (5.06305pt too wide) in paragraph at lines 61--70
+\OT1/cmr/m/n/10 Weather[]Conditions, Road[]Surface[]Conditions, Spe-cial[]Conditions[]at[]Site, Car-riage-way[]Hazards,
+ []
+
+
+Overfull \hbox (4.00743pt too wide) in paragraph at lines 61--70
+\OT1/cmr/m/n/10 Ur-ban[]or[]Rural[]Area, Did[]Police[]Officer[]Attend[]Scene[]of[]Accident, LSOA[]of[]Accident[]Location. 
+ []
+
+[2]
+<Images/accident_severity.png, id=12, 444.15938pt x 328.97906pt>
+File: Images/accident_severity.png Graphic file (type png)
+<use Images/accident_severity.png>
+Package pdftex.def Info: Images/accident_severity.png  used on input line 111.
+(pdftex.def)             Requested size: 208.98558pt x 154.79085pt.
+<Images/accidents_by_hour.png, id=14, 749.80125pt x 379.4175pt>
+File: Images/accidents_by_hour.png Graphic file (type png)
+<use Images/accidents_by_hour.png>
+Package pdftex.def Info: Images/accidents_by_hour.png  used on input line 127.
+(pdftex.def)             Requested size: 208.98558pt x 105.74985pt.
+ [3 <./Images/accident_severity.png> <./Images/accidents_by_hour.png>]
+<Images/accidents_by_day.png, id=20, 526.96875pt x 348.55219pt>
+File: Images/accidents_by_day.png Graphic file (type png)
+<use Images/accidents_by_day.png>
+Package pdftex.def Info: Images/accidents_by_day.png  used on input line 138.
+(pdftex.def)             Requested size: 208.98558pt x 138.23238pt.
+<Images/police_attendance.png, id=21, 522.45187pt x 344.03531pt>
+File: Images/police_attendance.png Graphic file (type png)
+<use Images/police_attendance.png>
+Package pdftex.def Info: Images/police_attendance.png  used on input line 151.
+(pdftex.def)             Requested size: 208.98558pt x 137.61693pt.
+ [4 <./Images/accidents_by_day.png> <./Images/police_attendance.png>]
+<Images/geographical_distribution.png, id=27, 311.66437pt x 318.43968pt>
+File: Images/geographical_distribution.png Graphic file (type png)
+<use Images/geographical_distribution.png>
+Package pdftex.def Info: Images/geographical_distribution.png  used on input line 163.
+(pdftex.def)             Requested size: 208.98558pt x 213.53326pt.
+<Images/weather_conditions.png, id=28, 524.71031pt x 324.46219pt>
+File: Images/weather_conditions.png Graphic file (type png)
+<use Images/weather_conditions.png>
+Package pdftex.def Info: Images/weather_conditions.png  used on input line 175.
+(pdftex.def)             Requested size: 200.62437pt x 124.05934pt.
+<Images/road_surface_conditions.png, id=29, 533.74406pt x 324.46219pt>
+File: Images/road_surface_conditions.png Graphic file (type png)
+<use Images/road_surface_conditions.png>
+Package pdftex.def Info: Images/road_surface_conditions.png  used on input line 181.
+(pdftex.def)             Requested size: 200.62437pt x 121.96016pt.
+ [5 <./Images/geographical_distribution.png> <./Images/weather_conditions.png> <./Images/road_surface_conditions.png>]
+<Images/correlation_matrix.png, id=37, 783.4068pt x 819.5418pt>
+File: Images/correlation_matrix.png Graphic file (type png)
+<use Images/correlation_matrix.png>
+Package pdftex.def Info: Images/correlation_matrix.png  used on input line 203.
+(pdftex.def)             Requested size: 417.97118pt x 437.25629pt.
+ [6 <./Images/correlation_matrix.png>]
+<Images/outlier_detection.png, id=42, 611.4042pt x 393.8715pt>
+File: Images/outlier_detection.png Graphic file (type png)
+<use Images/outlier_detection.png>
+Package pdftex.def Info: Images/outlier_detection.png  used on input line 222.
+(pdftex.def)             Requested size: 208.98558pt x 134.62971pt.
+ [7 <./Images/outlier_detection.png>]
+<Images/accident_severity_without_outliers.png, id=48, 459.6372pt x 474.0912pt>
+File: Images/accident_severity_without_outliers.png Graphic file (type png)
+<use Images/accident_severity_without_outliers.png>
+Package pdftex.def Info: Images/accident_severity_without_outliers.png  used on input line 252.
+(pdftex.def)             Requested size: 208.98558pt x 215.55992pt.
+ [8 <./Images/accident_severity_without_outliers.png>] [9] (Road-Safety.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 3785 strings out of 475248
+ 65882 string characters out of 5767627
+ 1927785 words of memory out of 5000000
+ 25312 multiletter control sequences out of 15000+600000
+ 563276 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,8n,77p,319b,487s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Road-Safety.pdf (9 pages, 477561 bytes).
+PDF statistics:
+ 83 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
