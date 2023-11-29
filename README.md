@@ -4,7 +4,7 @@ Welcome to the Road Safety EDA repository! This project focuses on the thorough 
 
 ## Steps Followed:
 
-### 1. Data Handling 📂
+### 1. Data Inspection 📂
 - **Dataset:** The road safety dataset from Great Britain in 2019 is used.
 - **Attributes:** 32 attributes including accident severity, location, time, weather conditions, and more.
 
