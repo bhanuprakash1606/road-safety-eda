@@ -1,4 +1,4 @@
-# Road Safety Exploratory Data Analysis (EDA) Repository 🚗📊
+# Mapping the Journey - An Exploratory Study of Road Safety in Great Britain 🚗📊
 
 Welcome to the Road Safety EDA repository! This project focuses on the thorough exploration of road safety data, unraveling insights and patterns. Below are the technical details and steps followed in this EDA:
 
